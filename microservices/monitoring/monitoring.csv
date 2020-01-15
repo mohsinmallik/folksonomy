@@ -1,15 +1,15 @@
 src_url,vcs,name,web_url,description
-https://github.com/netdata/netdata,git,netdata/netdata,,
-https://github.com/grafana/grafana,git,grafana/grafana,,
-https://github.com/getsentry/sentry,git,getsentry/sentry,,
-https://github.com/osquery/osquery,git,osquery/osquery,,
-https://github.com/nicolargo/glances,git,nicolargo/glances,,
-https://github.com/apache/skywalking,git,apache/skywalking,,
-https://github.com/elastic/logstash,git,elastic/logstash,,
-https://github.com/jaegertracing/jaeger,git,jaegertracing/jaeger,,
-https://github.com/naver/pinpoint,git,naver/pinpoint,,
-https://github.com/elastic/beats,git,elastic/beats,,
-https://github.com/influxdata/telegraf,git,influxdata/telegraf,,
-https://github.com/dropwizard/metrics,git,dropwizard/metrics,,
+https://github.com/netdata/netdata,git,netdata/netdata,https://my-netdata.io/,"Netdata is distributed, real-time, performance and health monitoring for systems and applications. It is a highly-optimized monitoring agent you install on all your systems and containers."
+https://github.com/grafana/grafana,git,grafana/grafana,https://grafana.com/,"Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored."
+https://github.com/getsentry/sentry,git,getsentry/sentry,https://sentry.io/,"Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application."
+https://github.com/osquery/osquery,git,osquery/osquery,https://osquery.io/,"osquery exposes an operating system as a high-performance relational database. This allows you to write SQL-based queries to explore operating system data."
+https://github.com/nicolargo/glances,git,nicolargo/glances,http://nicolargo.github.io/glances/,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems."
+https://github.com/apache/skywalking,git,apache/skywalking,https://skywalking.apache.org/,"SkyWalking is an open source APM system, including monitoring, tracing, diagnosing capabilities for distributed system in Cloud Native architecture."
+https://github.com/elastic/logstash,git,elastic/logstash,https://www.elastic.co/products/logstash,"Logstash - transport and process your logs, events, or other data."
+https://github.com/jaegertracing/jaeger,git,jaegertracing/jaeger,https://jaegertracing.io/,"Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing platform created by Uber Technologies and donated to Cloud Native Computing Foundation."
+https://github.com/naver/pinpoint,git,naver/pinpoint,https://naver.github.io/pinpoint/,"Pinpoint is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP."
+https://github.com/elastic/beats,git,elastic/beats,https://www.elastic.co/products/beats,"The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data."
+https://github.com/influxdata/telegraf,git,influxdata/telegraf,,"Telegraf is an agent for collecting, processing, aggregating, and writing metrics."
+https://github.com/dropwizard/metrics,git,dropwizard/metrics,https://metrics.dropwizard.io/,"Capturing JVM- and application-level metrics. So you know what's going on."
 https://github.com/collectd/collectd,git,collectd,https://collectd.org/,"A daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files."
 https://github.com/prometheus/alertmanager,git,Prometheus Alertmanager,,"The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integrations such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts."
